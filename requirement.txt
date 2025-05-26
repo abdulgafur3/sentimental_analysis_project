@@ -3,3 +3,5 @@ flask
 textblob
 gunicorn
 spacy
+deep-translator
+vaderSentiment
