@@ -2,3 +2,4 @@ matplotlib
 flask
 textblob
 gunicorn
+spacy
